@@ -1,13 +1,13 @@
 {
-    "name": "xray-heroku",
-    "description": "deploy xray to heroku",
-    "keywords": ["xray"],
+    "name": "tj",
+    "description": "tt",
+    "keywords": ["t"],
     "env": {
         "PASSWORD": {
-            "description": "Trojan Password",
-            "value": "iamtrazy"        
+            "description": "TJ Password",
+            "value": ""        
         }
     },
-    "repository": "https://github.com/iamtrazy/xray-heroku",
+    "repository": "https://github.com/dxtlook/troopjan",
     "stack": "container"
 }
